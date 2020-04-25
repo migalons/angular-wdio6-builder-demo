@@ -39,7 +39,7 @@
     "@angular/cli": "~9.0.5",
     "@angular/compiler-cli": "~9.0.5",
     "@angular/language-service": "~9.0.5",
-    "@migalons/angular-wdio-builder": "^1.0.1",
+    "@migalons/angular-wdio-builder": "^1.0.2",
     "@types/jasmine": "~3.5.0",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^12.11.1",
